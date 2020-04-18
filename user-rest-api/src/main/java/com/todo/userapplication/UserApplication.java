@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan("com.todo")
+@ComponentScan("com.todo.userapplication")
 public class UserApplication {
 
 	public static void main(String[] args) {
@@ -14,3 +14,5 @@ public class UserApplication {
 	}
 
 }
+
+
